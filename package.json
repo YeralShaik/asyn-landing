@@ -2,7 +2,7 @@
   "name": "proyecto-asincronismo",
   "version": "1.0.0",
   "description": "",
-  "main": "main.html",
+  "main": "index.html",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
